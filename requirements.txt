@@ -1,6 +1,5 @@
-
-fastapi==0.104.1
-uvicorn==0.24.0.post1
-pydantic==2.5.2
-python-dotenv==1.0.0
-groq==0.4.2
+fastapi>=0.112.0
+uvicorn>=0.30.0
+pydantic>=2.9.0
+python-dotenv>=1.0.0
+groq>=0.4.2
